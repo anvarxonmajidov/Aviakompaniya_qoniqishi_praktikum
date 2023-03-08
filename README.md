@@ -1,0 +1,2 @@
+# Aviakompaniya_qoniqishi_praktikum
+Mohirdev praktikum uchun
